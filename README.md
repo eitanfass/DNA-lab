@@ -30,7 +30,7 @@ Ensure Python is installed on your system:
 
 ## User Interface
 
-![DNA Sequencing Data Processor UI](DNA-lab/UI-image.jpeg)  <!-- Replace 'image.png' with the actual path of the image file in your project directory -->
+![DNA Sequencing Data Processor UI](UI image.jpeg)  <!-- Replace 'image.png' with the actual path of the image file in your project directory -->
 
 ## Additional Resources
 
