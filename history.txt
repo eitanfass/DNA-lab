@@ -1,0 +1,3 @@
+InputFolderPath=C:/Users/Eitan.F/OneDrive - tierraspec/Desktop/dna test
+OutputFolderPath=C:/Users/Eitan.F/Downloads/test
+Sensitivity=0.8
