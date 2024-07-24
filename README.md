@@ -1,5 +1,5 @@
-DNA Sequencing Setup and Preparations 
-Tool that synchronizes DNA sequencing results from multiple platforms, including ABI 3500 Genetic Analyzer, ANDE, and RapidHIT systems. 
+# DNA Sequencing Setup and Preparations 
+## Tool that synchronizes DNA sequencing results from multiple platforms, including ABI 3500 Genetic Analyzer, ANDE, and RapidHIT systems. 
 
 Python & application setup
 1.	Check if python is installed
