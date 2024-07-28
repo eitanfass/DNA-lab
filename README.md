@@ -14,9 +14,9 @@ Ensure Python is installed on your system:
 3. For Python installation, please follow the steps in the `Python Installation guide.docx` file.
 
 ### Setup
-
-1. Run the `DNA analyzer installer.bat` file to install the application. This will also install the necessary requirements, and the application will start upon completion.
-2. A clickable application shortcut is created for future usage. Place it where you please for later use. Note that the application shortcut is linked to the location of `DNA analyzer installer.bat`; if the folder is moved, the shortcut will not work.
+1. download the project folder (DNA-lab)
+2. Run the `DNA analyzer installer.bat` file to install the application. This will also install the necessary requirements, and the application will start upon completion.
+3. A clickable application shortcut is created for future usage. Place it where you please for later use. Note that the application shortcut is linked to the location of `DNA analyzer installer.bat`; if the folder is moved, the shortcut will not work.
 
 ## Application Usage
 
